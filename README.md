@@ -63,8 +63,8 @@ coursera_backend/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/skillforge-api.git
-   cd skillforge-api
+   git clone git@github.com:Zayed891/elearning-platform-api.git
+   cd elearning-platform-api
    ```
 
 2. **Install dependencies**
@@ -224,8 +224,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@Zayed891](https://github.com/yourusername)
+**Zayed Aktar**
+- GitHub: [@Zayed891](https://github.com/Zayed891)
 - Email: jayedaktar35@gmail.com
 
 ## 🙏 Acknowledgments
